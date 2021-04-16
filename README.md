@@ -1,3 +1,6 @@
+
+<img src="https://komarev.com/ghpvc/?username=sakkarakaya" alt=sakkarakaya/>
+
 - 👋 Hi, I’m Sakib
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning React
