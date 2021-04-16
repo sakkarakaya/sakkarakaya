@@ -1,6 +1,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=sakkarakaya" alt=sakkarakaya/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=sakkarakaya&theme=vue-dark&show_icons=true" align="right"/>
+
 - 👋 Hi, I’m Sakib
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning React
