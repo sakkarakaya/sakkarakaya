@@ -8,7 +8,7 @@
 
 
 - 👋 Hi, I’m Sakib
-- 👀 I’m interested in Web Technologies
+- 👀 I’m interested in Web Technologies & Data Science
 - 🌱 I’m currently learning React
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakkarakaya&theme=vue-dark" align="right" />
