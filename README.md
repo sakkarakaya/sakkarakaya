@@ -8,8 +8,9 @@
 
 
 - 👋 Hi, I’m Sakib
-- 👀 I’m interested in Web Technologies & Data Science
-- 🌱 I’m currently learning React
+- 👀 Interested in Web Technologies
+- 👀 React and React Native enthusiast
+- 🌱 Currently learning TypeScript
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakkarakaya&theme=vue-dark" align="right" />
 <img src="./react.gif" alt="react-native" width=200 height=200>
