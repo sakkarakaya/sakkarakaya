@@ -12,7 +12,7 @@
 - 👀 React and React Native enthusiast
 - 🌱 Currently learning TypeScript
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakkarakaya&theme=vue-dark" align="right" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LGLN-ATeam&theme=vue-dark" align="right" />
 <img src="./react.gif" alt="react-native" width=200 height=200>
 
