@@ -13,11 +13,11 @@
 - 🌱 Currently learning TypeScript
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LGLN-ATeam&theme=vue-dark" align="right" />
-<img src="https://github-readme-stats.vercel.app/api?username=LGLN-ATeam&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakkarakaya&theme=vue-dark" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=sakkarakaya&show_icons=true&theme=radical" />
 <img src="./react.gif" alt="react-native" width=200 height=200>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LGLN-ATeam)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 sakkarakaya/sakkarakaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
