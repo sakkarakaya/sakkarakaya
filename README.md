@@ -14,7 +14,7 @@
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakkarakaya&theme=vue-dark" align="right" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkarakaya&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=sakkarakaya&show_icons=true&theme=radical" />
 <img src="./react.gif" alt="react-native" width=200 height=200>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LGLN-ATeam)](https://github.com/anuraghazra/github-readme-stats)
