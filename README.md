@@ -9,7 +9,7 @@
 - 🌱 Currently learning TypeScript
 <img src="./react.gif" alt="react-native" width=200 height=200>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakkarakaya&theme=vue-dark" align="right" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakkarakaya&theme=vue-dark" />
 <img src="https://github-readme-stats.vercel.app/api?username=sakkarakaya&show_icons=true&theme=radical" />
 
 
